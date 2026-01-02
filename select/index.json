@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "アブノーマリティ・ダンシンガール",
+  "base_artist": "ぐちり",
+  "createdAt": "2026-01-02T23:23:17.226940Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アブノーマリティ・ダンシンガール",
+      "artist": "ぐちり",
+      "has_synced": true,
+      "path": "select/01_アブノーマリティ・ダンシンガール_ぐちり.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アブノーマリティ･ダンシンガール",
+      "artist": "ぐちり",
+      "has_synced": true,
+      "path": "select/02_アブノーマリティ・ダンシンガール_ぐちり.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "アブノーマリティ・ダンシンガール",
+      "artist": "guchiry",
+      "has_synced": false,
+      "path": "select/03_アブノーマリティ・ダンシンガール_guchiry.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "アブノーマリティ・ダンシンガール",
+      "artist": "Guchiri",
+      "has_synced": true,
+      "path": "select/04_アブノーマリティ・ダンシンガール_Guchiri.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "アブノーマリティ・ダンシンガール (Paused)",
+      "artist": "ぐちり",
+      "has_synced": true,
+      "path": "select/05_アブノーマリティ・ダンシンガール_(Paused)_ぐちり.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "アブノーマリティ･ダンシンガール",
+      "artist": "ぐちり・Flower",
+      "has_synced": true,
+      "path": "select/06_アブノーマリティ・ダンシンガール_ぐちり・Flower.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "アブノーマリティ・ダンシンガール (Abnormality Dancing Girl)",
+      "artist": "ぐちり",
+      "has_synced": true,
+      "path": "select/07_アブノーマリティ・ダンシンガール_(Abnormality_Dancing_Girl)_ぐちり.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アブノーマリティ・ダンシンガール",
+      "artist": "ぐちり",
+      "has_synced": false,
+      "path": "select/pl_01_アブノーマリティ・ダンシンガール_ぐちり.txt"
+    }
+  ]
+}
